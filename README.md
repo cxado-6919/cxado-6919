@@ -1,12 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Jeahyun%20Park&fontSize=90&animation=fadeIn" />
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
 </p>
+
 
 ![](https://github.com/secret-sky/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/secret-sky/github-stats-transparent/blob/output/generated/languages.svg)
