@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=Jeahyun_Park&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Jeahyun%20Park&fontSize=90&animation=fadeIn" />
 
 <h3 align="left">Languages:</h3>
 <p align="left">
