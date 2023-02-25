@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=Jeahyun_Park&fontSize=90" />
 
-<!--
-**secret-sky/secret-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+</p>
 
-Here are some ideas to get you started:
+![](https://github.com/gyeongminn/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/gyeongminn/github-stats-transparent/blob/output/generated/languages.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soft0116)](https://solved.ac/soft0116/)
+&nbsp; [![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=soft0116&theme=white)](https://solved.ac/soft0116/)
