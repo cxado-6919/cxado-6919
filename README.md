@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Jeahyun%20Park&fontSize=90&animation=fadeIn" />
 
 Hello. I am Bacholar student in Artificial Intelligence at Sangmyung University.
+
 I'm interested in Multimodal Learning, Generative Model.
 
 <details>
