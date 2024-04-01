@@ -6,14 +6,23 @@
 </summary>
   Sangmyung university, Seoul, Republic of Korea (Mar 2024 - Present)
   B.S., Department of Human centered artificial intelligence
+</details>
+
+<details>
 <summary>
   Experience
 </summary>
-  
+
+</details>
+
+<details>
 <summary>
   Activities
 </summary>
 
+</details>
+
+<details>
 <summary>
   Projects
 </summary>
