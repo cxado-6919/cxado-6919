@@ -5,6 +5,7 @@
   Education
 </summary>
   Sangmyung university, Seoul, Republic of Korea (Mar 2024 - Present)
+  
   B.S., Department of Human centered artificial intelligence
 </details>
 
