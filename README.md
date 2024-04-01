@@ -4,7 +4,7 @@
 <summary>
   Education
 </summary>
-   상명대학교 휴먼지능정보공학과(2024.03~currnet)
+   - 상명대학교 휴먼지능정보공학과(2024.03~currnet)
 </details>
 
 <h3 align="left">Tech Stack:</h3>
