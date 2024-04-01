@@ -2,9 +2,9 @@
 
 Hello. I am Bacholar student in Artificial Intelligence at Sangmyung University.
 
-I'm interested
+Research Interest
 - Multimodal Learning
-- Generative Model.
+- Generative Model
 
 <details>
 <summary>
