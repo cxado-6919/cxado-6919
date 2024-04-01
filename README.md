@@ -2,11 +2,10 @@
 
 <details>
 <summary>
-  토글 제목
+  Education
 </summary>
-   토글 안 내용
+   상명대학교 휴먼지능정보공학과(2024.03~currnet)
 </details>
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
