@@ -4,7 +4,20 @@
 <summary>
   Education
 </summary>
-   - 상명대학교 휴먼지능정보공학과(2024.03~currnet)
+  Sangmyung university, Seoul, Republic of Korea (Mar 2024 - Present)
+  B.S., Department of Human centered artificial intelligence
+<summary>
+  Experience
+</summary>
+  
+<summary>
+  Activities
+</summary>
+
+<summary>
+  Projects
+</summary>
+
 </details>
 
 <h3 align="left">Tech Stack:</h3>
