@@ -30,15 +30,7 @@
 
 </details>
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
-</p>
-
+Contect : poilq123@gmail.com
 
 ![](https://github.com/secret-sky/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/secret-sky/github-stats-transparent/blob/output/generated/languages.svg)
