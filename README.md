@@ -4,7 +4,7 @@
 <summary>
   Education
 </summary>
-  <b>Sangmyung university, Seoul, Republic of Korea</b>(Mar 2024 - Present)
+  <b>Sangmyung university, Seoul, Republic of Korea</b> (Mar 2024 - Present)
   
   B.S., Department of Human centered artificial intelligence
 </details>
