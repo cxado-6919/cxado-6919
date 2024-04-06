@@ -20,6 +20,7 @@ Research Interest
   Experience
 </summary>
   Nothing here yet ;)
+  
   <i>"Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</i>
 </details>
 
@@ -28,6 +29,7 @@ Research Interest
   Activities
 </summary>
   Nothing here yet ;)
+  
   <i>"Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</i>
 </details>
 
@@ -36,6 +38,7 @@ Research Interest
   Projects
 </summary>
   Nothing here yet ;)
+  
   <i>"Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</i>
 </details>
 
