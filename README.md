@@ -33,6 +33,7 @@ Research Interest
   Nothing here yet ;)
   
   <i><blockquote>Oh, wonder! How many goodly creatures are there here! How beauteous mankind is! O brave new world, that has such people in 't!</blockquete></i>
+  <footer>—Aldous Huxley, <cite>Brave New World</cite></footer>
 </details>
 
 <details>
