@@ -43,7 +43,8 @@ Research Interest
 </summary>
   Nothing here yet ;)
   
-  <i>"Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</i>
+  <i><blockquote>Boys, be ambitious !</blockquete></i>
+  <footer>—William Smith Clark</footer>
 </details>
 
 Contect : poilq123@gmail.com
