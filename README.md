@@ -10,7 +10,7 @@ Research Interest
 <summary>
   Education
 </summary>
-  <b>Sangmyung University, Seoul, Republic of Korea</b> (Mar 2024 - Present)
+  <b>Sangmyung University, Seoul, Republic of Korea</b> (Mar 2024 - Present)(transferred)
   
   B.S., Department of Human Centered Artificial Intelligence
 </details>
