@@ -32,7 +32,7 @@ Research Interest
 </summary>
   Nothing here yet ;)
   
-  <i>"Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</i>
+  <i><blockquote>Oh, wonder! How many goodly creatures are there here! How beauteous mankind is! O brave new world, that has such people in 't!</blockquete></i>
 </details>
 
 <details>
