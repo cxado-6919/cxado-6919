@@ -22,7 +22,8 @@ Research Interest
   Nothing here yet ;)
   
   
-  <i><blockquote>Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</blockquete></i>
+  <i><blockquote>Your beginnings will seem humble, so prosperous will your future be."</blockquete></i>
+  <footer>—Job 8:7 NIV</footer>
   
 </details>
 
