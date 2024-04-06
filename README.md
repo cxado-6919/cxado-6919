@@ -19,21 +19,24 @@ Research Interest
 <summary>
   Experience
 </summary>
-
+  Nothing here yet ;)
+  <i>"Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</i>
 </details>
 
 <details>
 <summary>
   Activities
 </summary>
-
+  Nothing here yet ;)
+  <i>"Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</i>
 </details>
 
 <details>
 <summary>
   Projects
 </summary>
-
+  Nothing here yet ;)
+  <i>"Job 8:7 NIV:Your beginnings will seem humble, so prosperous will your future be."</i>
 </details>
 
 Contect : poilq123@gmail.com
