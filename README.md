@@ -2,11 +2,6 @@
 
 Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 
-Research Interest
-- Multimodal Learning
-- Generative Model
-
-
 <h2><b>Click to open!</b></h1>
 
 <details>
