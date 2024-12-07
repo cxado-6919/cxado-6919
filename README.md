@@ -11,7 +11,6 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
   <b>Sangmyung University, Seoul, Republic of Korea</b> (Mar 2024 - Present)(transferred)
   
   B.S., Department of Human Centered Artificial Intelligence
-</details>
 
 <details>
 <summary>
@@ -23,6 +22,7 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
   <i><blockquote>Your beginnings will seem humble, so prosperous will your future be."</blockquete></i>
   <footer>—Job 8:7 NIV</footer>
 
+</details>
 <details>
 <summary>
   Activities
@@ -41,6 +41,7 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
   
   <i><blockquote>Boys, be ambitious !</blockquete></i>
   <footer>—William Smith Clark</footer>
+
 </details>
 
 Contect : poilq123@gmail.com
