@@ -4,7 +4,7 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 
 <h2><b>Click to open!</b></h1>
 
-<details>
+
 <summary>
   Education
 </summary>
@@ -22,8 +22,6 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
   
   <i><blockquote>Your beginnings will seem humble, so prosperous will your future be."</blockquete></i>
   <footer>—Job 8:7 NIV</footer>
-  
-</details>
 
 <details>
 <summary>
