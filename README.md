@@ -12,17 +12,13 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
   
   B.S., Department of Human Centered Artificial Intelligence
 
-<details>
+
 <summary>
   Experience
 </summary>
-  Nothing here yet ;)
+  <b>Pattern Recognition Lab(Sangmyung University), Seoul, Republic of Korea</b> (Mar 2025)
   
-  
-  <i><blockquote>Your beginnings will seem humble, so prosperous will your future be."</blockquete></i>
-  <footer>—Job 8:7 NIV</footer>
-
-</details>
+  Intern Resercher
 <details>
 <summary>
   Activities
