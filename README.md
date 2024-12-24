@@ -16,9 +16,6 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 <summary>
   Experience
 </summary>
-  <b>Pattern Recognition Lab(Sangmyung University), Seoul, Republic of Korea</b> (Mar 2025)
-  
-  Intern Resercher
 <details>
 <summary>
   Activities
