@@ -17,27 +17,12 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
   Experience
 </summary>
   <b>Intern, Institute of Intelligence Informatics Technology(Sangmyung University), Seoul, Republic of Korea</b> (Mar 2025)
-<details>
-<summary>
-  Activities
-</summary>
-  Nothing here yet ;)
-  
-  <i><blockquote>Oh, wonder! How many goodly creatures are there here! How beauteous mankind is! O brave new world, that has such people in 't!</blockquete></i>
-  <footer>—Aldous Huxley, <cite>Brave New World</cite></footer>
-</details>
-
-<details>
+<br><br>
 <summary>
   Projects
 </summary>
   Nothing here yet ;)
-  
-  <i><blockquote>Boys, be ambitious !</blockquete></i>
-  <footer>—William Smith Clark</footer>
-
-</details>
-
+<br><br>
 Contect : poilq123@gmail.com
 
 ![](https://github.com/secret-sky/github-stats-transparent/blob/output/generated/overview.svg)
