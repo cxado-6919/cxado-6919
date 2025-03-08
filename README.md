@@ -21,12 +21,9 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 <summary>
   Projects
 </summary>
-  Nothing here yet ;)
+  Personal project, U-net based dental segmentation model(Mar 2025)
 <br><br>
 Contect : poilq123@gmail.com
 
 ![](https://github.com/secret-sky/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/secret-sky/github-stats-transparent/blob/output/generated/languages.svg)
-
-&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soft0116)](https://solved.ac/soft0116/)
-&nbsp; [![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=soft0116&theme=white)](https://solved.ac/soft0116/)
