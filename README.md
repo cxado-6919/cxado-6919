@@ -2,13 +2,10 @@
 
 Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 
-<h2><b>Click to open!</b></h1>
-
-
 <summary>
   Education
 </summary>
-  <b>Sangmyung University, Seoul, Republic of Korea</b> (Mar 2024 - Present)(transferred)
+  <b>Sangmyung University, Seoul, Republic of Korea</b> (Mar 2024~)(transferred)
   
   B.S., Department of Human Centered Artificial Intelligence
 
@@ -16,13 +13,16 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 <summary>
   Experience
 </summary>
-  <b>Intern, Institute of Intelligence Informatics Technology(Sangmyung University), Seoul, Republic of Korea</b> (Mar 2025)
+  <b>Intern, Institute of Intelligence Informatics Technology(Sangmyung University), Seoul, Republic of Korea</b> (Mar 2025~)
 <br><br>
 <summary>
   Projects
 </summary>
-  <b>Personal project, U-net based dental segmentation model(Mar 2025)</b>
+  <b>Personal project, U-net Based Dental Segmentation Model</b>(Mar 2025~)
+  
+  <b>Graduation project, Real-Time Object Detection Recycling Assistant App</b>(Mar 2025~)
 <br><br>
+
 Contect : poilq123@gmail.com
 
 ![](https://github.com/secret-sky/github-stats-transparent/blob/output/generated/overview.svg)
