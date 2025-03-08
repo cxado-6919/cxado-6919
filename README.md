@@ -21,7 +21,7 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 <summary>
   Projects
 </summary>
-  Personal project, U-net based dental segmentation model(Mar 2025)
+  <b>Personal project, U-net based dental segmentation model(Mar 2025)</b>
 <br><br>
 Contect : poilq123@gmail.com
 
