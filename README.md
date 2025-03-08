@@ -13,7 +13,7 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 <summary>
   Experience
 </summary>
-  <b>Intern, Institute of Intelligence Informatics Technology(Sangmyung University), Seoul, Republic of Korea</b> (Mar 2025~)
+  <b>Intern, Institute of Intelligence Informatics Technology, Sangmyung University, Seoul, Republic of Korea</b> (Mar 2025~)
 <br><br>
 <summary>
   Projects
