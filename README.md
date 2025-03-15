@@ -18,7 +18,7 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 <summary>
   Projects
 </summary>
-  <b>Personal project, U-net Based Dental Segmentation Model</b>(Mar 2025~)
+  <b>Personal project, U-net/Nested U-net Based Dental Segmentation Model</b>(Mar 2025~)
   
   <b>Graduation project, Real-Time Object Detection Recycling Assistant App</b>(Mar 2025~)
 <br><br>
