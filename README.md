@@ -5,15 +5,19 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
 <summary>
   Education
 </summary>
-  <b>Sangmyung University, Seoul, Republic of Korea</b> (Mar 2024~)(transferred)
+  <b>Sangmyung University, Seoul, Republic of Korea</b> (Mar 2024~ Mar 2026)(transferred)
   
   B.S., Department of Human Centered Artificial Intelligence
+
+  <b>University Of Seoul, Seoul, Republic of Korea</b> (Mar 2026~)
+
+  M.S., Department of Artificial Intelligence
 
 
 <summary>
   Experience
 </summary>
-  <b>Intern, Institute of Intelligence Informatics Technology, Sangmyung University, Seoul, Republic of Korea</b> (Mar 2025~)
+  <b>Intern, Institute of Intelligence Informatics Technology, Sangmyung University, Seoul, Republic of Korea</b> (Mar 2025 ~ Oct 2025)
 <br><br>
 <summary>
   Projects
