@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Jeahyun%20Park&fontSize=90&animation=fadeIn" />
 
-Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
+Hello. I am Bachelor student in Artificial Intelligence at University Of Seoul.
 
 <summary>
   Education
@@ -10,9 +10,8 @@ Hello. I am Bachelor student in Artificial Intelligence at Sangmyung University.
   B.S., Department of Human Centered Artificial Intelligence
 
   <b>University Of Seoul, Seoul, Republic of Korea</b> (Mar 2026~)
-
+  <br>
   M.S., Department of Artificial Intelligence
-
 
 <summary>
   Experience
